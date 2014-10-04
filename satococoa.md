@@ -2,5 +2,5 @@
 
 - http://satococoa.github.io/
 - #p4d, #yurudev, #yokohamarb, #rubymotionjp
-- エンジニア
+- Engineer
 - Ruby on Rails, iOS, Go
