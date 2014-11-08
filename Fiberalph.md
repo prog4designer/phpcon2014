@@ -1,0 +1,4 @@
+- http://www.rixar-project.com/
+- @fiberalph
+- Engineer, Programmer
+- PHP, MODX
